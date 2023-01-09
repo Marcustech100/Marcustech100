@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Gestão em Tecnologia da Informação
 - 🌱 Estudando C# e outras tecnologias
-- 📫 Contate-me: mvtechnologic@gmail.com
+- 📫 Entre em contato: mvtechnologic@gmail.com
 
 <div align="center">
   <a href="https://github.com/Marcustech100">
