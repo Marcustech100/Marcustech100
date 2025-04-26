@@ -1,7 +1,7 @@
-### Olá! Meu nome é Marcus Vinícius, Bem Vindo!
+### Olá! Meu nome é Marcus de Andrade, Seja muito, mas muito bem Vindo(a)!
 
-- 🔭 Cursando Gestão em Tecnologia da Informação
-- 🌱 Estudando C# e outras tecnologias
+- 🔭 Gestão em Tecnologia da Informação
+- 🌱 QA/testes aspirando e outras tecnologias
 - 📫 Entre em contato: mvtechnologic@gmail.com
 
   
