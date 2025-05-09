@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Marcus de Andrade, Seja muito, mas muito bem Vindo(a)!
 
 - 🔭 Gestão em Tecnologia da Informação
-- 🌱 QA/testes aspirando e outras tecnologias
-- 📫 Entre em contato: mvtechnologic@gmail.com
+- 🌱 QA/testes em evolução
+- 📫 Entre em contato: marcusvitech@gmail.com
 
   
 <div style="display: inline_block"><br>
