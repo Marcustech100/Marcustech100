@@ -1,4 +1,4 @@
-### Olá! Meu nome é Marcus de Andrade, Seja muito, mas muito bem Vindo(a)!
+### Olá! Meu nome é Marcus de Andrade, Seja bem Vindo(a)!
 
 - 🔭 Gestão em Tecnologia da Informação
 - 🌱 QA/testes em evolução
